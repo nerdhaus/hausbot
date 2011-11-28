@@ -1,1 +1,1 @@
-["karma.coffee", "redis-brain.coffee", "tweet.coffee", "twitter.coffee", "shipit.coffee", "xkcd.coffee"]
+["karma.coffee", "redis-brain.coffee", "script.coffee", "tweet.coffee", "twitter.coffee", "shipit.coffee", "xkcd.coffee"]
