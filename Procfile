@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n hausbot
+web: bin/hubot -a irc -n hausbot -l !
