@@ -20,7 +20,7 @@
   },
 
   "dependencies": {
-    "hubot": "https://github.com/github/hubot/tarball/master",
+    "hubot": "git://github.com/github/hubot.git#67b2878f770dc2887987f6aa910b5784aa5d9968",
     "hubot-scripts": "https://github.com/nerdhaus/hubot-scripts/tarball/master",
     "hubot-irc": "0.0.7",
     "optparse": "1.0.3"
