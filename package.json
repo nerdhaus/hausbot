@@ -32,6 +32,7 @@
     "gitio": "1.0.1",
     "pg": "~0.10.2",
     "ntwitter": "0.5.0",
-    "underscore": "1.5.1"
+    "underscore": "1.5.1",
+    "request": ""
   }
 }
