@@ -29,7 +29,7 @@
     "jsdom": ">=0.6.0",
     "url": "0.7.9",
     "querystring": "0.2.0",
-    "gitio": "1.0.1",
+    "gitio2": "^2.0.0",
     "pg": "~0.10.2",
     "ntwitter": "0.5.0",
     "underscore": "1.5.1",
