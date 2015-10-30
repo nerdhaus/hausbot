@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n hausbot -l !
+web: bin/hubot -a slack -l !
